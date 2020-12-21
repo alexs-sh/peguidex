@@ -1,0 +1,4 @@
+uid==3&uid==4
+uid>10&uid<20
+uid<10&uid>20
+

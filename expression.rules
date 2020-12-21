@@ -1,0 +1,4 @@
+(uid==3|uid==4|uid==5)
+(uid==3|uid==4|uid==5)&uid<10
+((uid>10 & uid<100) | (uid>200 & uid<300)) & (uid==99|uid==201)
+
